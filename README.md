@@ -1,7 +1,11 @@
 ### Hi there 👋 I am Teow 👨‍💻
 
 
-I am a data scientist that never stop learning. Currently exploring in the ocean 🌊 of AI and IoT. For me programming is about solving the puzzles and also Mathematics 😪. Lets solve it together and grow together! 🎉🎉
+I am a data scientist that never stop learning. Currently exploring in the ocean 🌊 of AI and IoT. 
+
+For me programming is about solving the puzzles and also Mathematics 😪. 
+
+Lets solve it together and grow together! 🎉🎉
 
 ## 🏅 Skills
 <ul>
