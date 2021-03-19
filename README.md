@@ -1,10 +1,36 @@
 ### Hi there 👋 I am Teow 👨‍💻
 
 
-I am a data scientist that never stop learning. Currently exploring in the ocean 🌊 of AI and IoT. For me programming is about solving the puzzles and also Mathematics 😪. Lets solve it together and grow together! 🏎
+I am a data scientist that never stop learning. Currently exploring in the ocean 🌊 of AI and IoT. For me programming is about solving the puzzles and also Mathematics 😪. Lets solve it together and grow together! 🎉🎉
 
-python
-print("Nothing Here")
+## 🏅 Skills
+<ul>
+  <li>Python 🐍</li>
+  <li>C # #️⃣</li>
+  <li>C++ ➕</li>
+  <li>Angular 🅰</li>
+  <li>RasPi Player 🍓</li>
+  <li>WebGL 🖼</li>
+  <li>Unity 🕶</li>
+</ul>
+
+
+## 😜 GitHub Stats
+<ul>
+  <li> Gonna keep on updating! Stay tuned guys! 🏃‍♂️ </li>
+</ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+## ⚡ Fun fact about me
+The most important thing is to try and inspire people so that they can be great in whatever they want to do. -- Kobe Bryant 🐍 
+
+<ul>
+  <li>I can play hops 🏀</li>
+  <li>I can play piano 🎹</li>
+  <li>I can cook 👨‍🍳</li>
+  <li>And I am addicted to gaming 🎮</li>
+</ul>
 
 <!--
 **tyqin97/tyqin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
