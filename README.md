@@ -7,6 +7,8 @@ For me programming is about solving the puzzles and also Mathematics 😪.
 
 Lets solve it together and grow together! 🎉🎉
 
+
+
 ## 🏅 Skills
 <ul>
   <li>Python 🐍</li>
@@ -19,12 +21,16 @@ Lets solve it together and grow together! 🎉🎉
 </ul>
 
 
+
 ## 📈 GitHub Stats
 <ul>
   <li> Gonna keep on updating! Stay tuned guys! 🏃‍♂️ </li>
 </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+
+
 
 ## ⚡ Fun fact about me
 The most important thing is to try and inspire people so that they can be great in whatever they want to do. -- Kobe Bryant 🐍 
