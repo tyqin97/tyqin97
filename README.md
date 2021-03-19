@@ -15,7 +15,7 @@ I am a data scientist that never stop learning. Currently exploring in the ocean
 </ul>
 
 
-## 😜 GitHub Stats
+## 📈 GitHub Stats
 <ul>
   <li> Gonna keep on updating! Stay tuned guys! 🏃‍♂️ </li>
 </ul>
