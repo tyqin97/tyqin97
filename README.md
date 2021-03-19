@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Teow 👨‍💻
+
+
+I am a data scientist that never stop learning. Currently exploring in the ocean 🌊 of AI and IoT. For me programming is about solving the puzzles and also Mathematics 😪. Lets solve it together and grow together! 🏎
+
+python
+print("Nothing Here")
 
 <!--
 **tyqin97/tyqin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
