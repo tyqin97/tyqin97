@@ -27,8 +27,9 @@ Lets solve it together and grow together! 🎉🎉
   <li> Gonna keep on updating! Stay tuned guys! 🏃‍♂️ </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ty Qin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyqin97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
