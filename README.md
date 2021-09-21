@@ -14,8 +14,8 @@ Lets solve it together and grow together! 🎉🎉
   <li>Python 🐍</li>
   <li>C # #️⃣</li>
   <li>C++ ➕</li>
-  <li>Angular 🅰</li>
-  <li>RasPi Player 🍓</li>
+  <li>NodeJS 💚</li>
+  <li>RasPi 🍓</li>
   <li>WebGL 🖼</li>
   <li>Unity 🕶</li>
 </ul>
