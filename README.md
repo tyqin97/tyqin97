@@ -12,12 +12,13 @@ Lets solve it together and grow together! 🎉🎉
 ## 🏅 Skills
 <ul>
   <li>Python 🐍</li>
+  <li>Artificial Intelligence 🤖</li>
   <li>C # #️⃣</li>
   <li>C++ ➕</li>
   <li>NodeJS 💚</li>
   <li>RasPi 🍓</li>
-  <li>WebGL 🖼</li>
-  <li>Unity 🕶</li>
+  <li>Typescript, Javascript ⌨</li>
+  <li>Dart 🎯</li>
 </ul>
 
 
@@ -37,8 +38,8 @@ Lets solve it together and grow together! 🎉🎉
 The most important thing is to try and inspire people so that they can be great in whatever they want to do. -- Kobe Bryant 🐍 
 
 <ul>
-  <li>I can play hops 🏀</li>
-  <li>I can play piano 🎹</li>
+  <li>I can play 🏀</li>
+  <li>I can play 🎹</li>
   <li>I can cook 👨‍🍳</li>
   <li>And I am addicted to gaming 🎮</li>
 </ul>
