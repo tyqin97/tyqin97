@@ -22,7 +22,6 @@ Email: tyqin4237@gmail.com / yiqin_0515@qq.com
 </ul>
 
 ## 👨🏻‍💻 Other Skills
-
 Artificial Intelligence 🤖
 <ul>
   <li>Tensorflow</li>
@@ -48,9 +47,9 @@ Hardwares 🔧
   <li> Gonna keep on updating! Stay tuned guys! 🏃‍♂️ </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark&layout=compact&langs_count=12&card_width=450)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Ty Qin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyqin97&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ty Qin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyqin97&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
