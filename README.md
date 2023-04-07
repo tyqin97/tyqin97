@@ -8,7 +8,7 @@ Lets solve it together and grow together! 🎉🎉
 
 
 ## 📫 How to reach me
-[Linkedin: ](https://www.linkedin.cn/incareer/in/ACoAADFqeZQBP6kNdoa43UOpgIXuCJ7NRm2eNM8)
+LinkedIn: [LINK TO MY PROFILE](https://www.linkedin.cn/incareer/in/ACoAADFqeZQBP6kNdoa43UOpgIXuCJ7NRm2eNM8) <br/>
 Email: tyqin4237@gmail.com / yiqin_0515@qq.com
 
 ## 👨🏻‍💻 Programming Language
