@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Teow 👨‍💻
 
-
 I am a data scientist that never stop learning. Currently exploring in the ocean 🌊 of AI and IoT. 
 
 For me programming is about solving the puzzles and also Mathematics 😪. 
@@ -8,20 +7,41 @@ For me programming is about solving the puzzles and also Mathematics 😪.
 Lets solve it together and grow together! 🎉🎉
 
 
+## 📫 How to reach me
+[Linkedin: ](https://www.linkedin.cn/incareer/in/ACoAADFqeZQBP6kNdoa43UOpgIXuCJ7NRm2eNM8)
+Email: tyqin4237@gmail.com / yiqin_0515@qq.com
 
-## 🏅 Skills
+## 👨🏻‍💻 Programming Language
 <ul>
   <li>Python 🐍</li>
-  <li>Artificial Intelligence 🤖</li>
+  <li>Typescript, Javascript ⌨</li>
+  <li>PHP 🅿️</li>
   <li>C # #️⃣</li>
   <li>C++ ➕</li>
-  <li>NodeJS 💚</li>
-  <li>RasPi 🍓</li>
-  <li>Typescript, Javascript ⌨</li>
   <li>Dart 🎯</li>
 </ul>
 
+## 👨🏻‍💻 Other Skills
 
+Artificial Intelligence 🤖
+<ul>
+  <li>Tensorflow</li>
+  <li>Scikit Learn</li>
+  <li>Numpy, Pandas, etc...</li>
+</ul>
+Web Development 🕸️  
+<ul>
+  <li>NodeJS 💚</li>
+  <li>React 🟣</li>
+</ul>
+Hardwares 🔧
+<ul>
+  <li>Arduino ∞</li>
+  <li>RasPi 🍓</li>
+  <li>Siemens PLC 🔍</li>
+  <li>Sensors, etc...</li>
+</ul>
+ 
 
 ## 📈 GitHub Stats
 <ul>
