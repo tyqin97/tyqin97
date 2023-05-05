@@ -47,7 +47,7 @@ Hardwares 🔧
   <li> Gonna keep on updating! Stay tuned guys! 🏃‍♂️ </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark&layout=compact&langs_count=12&card_width=450)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyqin97&theme=dark&layout=compact&langs_count=8&card_width=450&size_weight=0.5&count_weight=0.5&count_private=true&hide=css)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Ty Qin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyqin97&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
